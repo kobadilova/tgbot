@@ -1,0 +1,6 @@
+TOKEN = "5141677800:AAHySs3y5q2hN-5z89CRJh4ppcT2th-RiEM"
+URL_comedy = "https://www.preview.ph/culture/funny-korean-dramas-a00268-20200627"
+URL_action= "https://kdramaworld.org/blog/action-korean-dramas/"
+URL_fantasy = "https://screenrant.com/best-romantic-fantasy-k-dramas/"
+URL_horror="https://www.thereviewgeek.com/best-horror-kdramas-alltime/"
+URL_historycal = "https://reelrundown.com/tv/top-30-best-historical-korean-dramas-sageuks-you-must-watch"
